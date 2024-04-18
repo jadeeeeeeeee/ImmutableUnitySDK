@@ -8,4 +8,10 @@ https://github.com/immutable/unity-immutable-sdk
 
 使用unity版本 2023.3.26f1
 
+主要方法在 MainFuc.cs脚本内。
+
+
+
+
+
 
